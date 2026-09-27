@@ -1,18 +1,23 @@
 import os
+from pathlib import Path
 from dotenv import load_dotenv
-import anthropic
+from openai import OpenAI
 
-load_dotenv()
+env_path = Path(__file__).resolve().parents[2] / ".env"
+load_dotenv(dotenv_path=env_path)
 
-client = anthropic.Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
+client = OpenAI(
+    api_key=os.getenv("DEEPSEEK_API_KEY"),
+    base_url="https://api.deepseek.com"
+)
 
 def generate(prompt: str, max_tokens: int = 500) -> str:
-    response = client.messages.create(
-        model="claude-sonnet-4-6",
+    response = client.chat.completions.create(
+        model="deepseek-chat",
         max_tokens=max_tokens,
         messages=[{"role": "user", "content": prompt}]
     )
-    return response.content[0].text
+    return response.choices[0].message.content
 
 if __name__ == "__main__":
     print(generate("Explique-moi ce qu'est un routeur de modèles LLM en deux phrases."))
