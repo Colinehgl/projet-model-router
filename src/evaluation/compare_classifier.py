@@ -9,6 +9,8 @@ from src.router.classifier import (
     load_dataset,
     normalize_label,
 )
+import threading
+from pathlib import Path
 
 """B3 — Comparaison règles simples (A2) vs classifieur appris sur embeddings.
 
