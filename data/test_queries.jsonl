@@ -1,0 +1,30 @@
+{"query": "Bonjour, comment vas-tu ?", "expected_complexity": "simple"}
+{"query": "Merci beaucoup pour ton aide !", "expected_complexity": "simple"}
+{"query": "Quelle est la capitale de la France ?", "expected_complexity": "simple"}
+{"query": "Traduis 'good morning' en français.", "expected_complexity": "simple"}
+{"query": "Résume en une phrase : le chat dort sur le canapé toute la journée.", "expected_complexity": "simple"}
+{"query": "Pourquoi le ciel est bleu ?", "expected_complexity": "simple"}
+{"query": "Combien font 15 multiplié par 4 ?", "expected_complexity": "simple"}
+{"query": "Donne-moi un synonyme de 'rapide'.", "expected_complexity": "simple"}
+{"query": "Quel est le pluriel de 'cheval' ?", "expected_complexity": "simple"}
+{"query": "Qui a écrit Les Misérables ?", "expected_complexity": "simple"}
+{"query": "Quel jour vient après le mardi ?", "expected_complexity": "simple"}
+{"query": "Écris une phrase de politesse pour terminer un email.", "expected_complexity": "simple"}
+{"query": "C'est quoi un pixel ?", "expected_complexity": "simple"}
+{"query": "Donne trois noms de fruits rouges.", "expected_complexity": "simple"}
+{"query": "Quelle est la couleur du drapeau italien ?", "expected_complexity": "simple"}
+{"query": "Explique en détail les différences entre TCP et UDP.", "expected_complexity": "complex"}
+{"query": "Écris un algorithme de tri fusion en Python et analyse sa complexité.", "expected_complexity": "complex"}
+{"query": "Compare les architectures REST et GraphQL : avantages, inconvénients et cas d'usage.", "expected_complexity": "complex"}
+{"query": "Un train part de Paris à 9h à 120 km/h, un autre de Lyon à 9h30 à 100 km/h en sens inverse. Distance : 465 km. À quelle heure se croisent-ils ? Raisonne étape par étape.", "expected_complexity": "complex"}
+{"query": "Explique le fonctionnement d'un garbage collector générationnel.", "expected_complexity": "complex"}
+{"query": "Démontre que la racine carrée de 2 est irrationnelle.", "expected_complexity": "complex"}
+{"query": "Comment concevoir une architecture de microservices tolérante aux pannes pour une application de e-commerce ?", "expected_complexity": "complex"}
+{"query": "Trouve le bug dans cette fonction Python et propose une correction : def moyenne(l): return sum(l) / len(l) - 1", "expected_complexity": "complex"}
+{"query": "Analyse les causes économiques de la crise de 1929 et leurs conséquences en Europe.", "expected_complexity": "complex"}
+{"query": "Quelles sont les différences entre un mutex et un sémaphore, avec un exemple de deadlock ?", "expected_complexity": "complex"}
+{"query": "Écris une requête SQL qui renvoie, pour chaque client, le montant total de ses commandes des 30 derniers jours, en excluant les commandes annulées.", "expected_complexity": "complex"}
+{"query": "Explique le mécanisme d'attention dans un Transformer et pourquoi il remplace les RNN.", "expected_complexity": "complex"}
+{"query": "Propose un plan de migration d'une base MySQL vers PostgreSQL sans interruption de service.", "expected_complexity": "complex"}
+{"query": "Quels sont les compromis entre cohérence et disponibilité dans un système distribué (théorème CAP) ?", "expected_complexity": "complex"}
+{"query": "Rédige une analyse critique des avantages et limites du télétravail pour une PME.", "expected_complexity": "complex"}
