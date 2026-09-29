@@ -1,0 +1,70 @@
+{"query": "Explique brièvement ce qu'est un nom propre.", "label": "simple"}
+{"query": "Discute de manière critique l'argument de la chambre chinoise de Searle.", "label": "complexe"}
+{"query": "Élabore une stratégie de migration d'une application monolithique vers des microservices, avec les risques et un plan par étapes.", "label": "complexe"}
+{"query": "Rédige une dissertation argumentée sur la question : la liberté est-elle compatible avec l'égalité ?", "label": "complexe"}
+{"query": "Mets cette phrase au pluriel : « Le chien aboie. »", "label": "simple"}
+{"query": "Démontre que toute suite de Cauchy réelle converge.", "label": "complexe"}
+{"query": "Prouve que √2 est irrationnel.", "label": "complexe"}
+{"query": "Quelle stratégie de test recommandes-tu pour un système embarqué temps réel critique, et comment justifier la couverture ? Détaille les compromis.", "label": "complexe"}
+{"query": "Traduis en anglais en conservant le registre littéraire, puis justifie tes choix : « La brume s'attardait sur les toits, et la ville, comme lasse d'elle-même, hésitait à se réveiller. »", "label": "complexe"}
+{"query": "Salut ! Petite question rapide : quelle est la monnaie utilisée au Japon ?", "label": "simple"}
+{"query": "Explique l'algorithme de rétropropagation et dérive le gradient pour un réseau à deux couches.", "label": "complexe"}
+{"query": "Combien font 12 fois 8 ?", "label": "simple"}
+{"query": "Combien de minutes y a-t-il dans une heure ?", "label": "simple"}
+{"query": "Explique étape par étape le déroulement de l'établissement d'une connexion TLS 1.3.", "label": "complexe"}
+{"query": "Quel est le pluriel de « cheval » ?", "label": "simple"}
+{"query": "Donne-moi trois noms de fruits.", "label": "simple"}
+{"query": "Qui a écrit Les Misérables ?", "label": "simple"}
+{"query": "Combien y a-t-il de jours dans une semaine ?", "label": "simple"}
+{"query": "Quel est le plus grand océan du monde ?", "label": "simple"}
+{"query": "Quelle est la racine carrée de 81 ?", "label": "simple"}
+{"query": "Pourquoi le problème de l'arrêt est-il indécidable ?", "label": "complexe"}
+{"query": "Quelle est la formule chimique de l'eau ?", "label": "simple"}
+{"query": "Merci beaucoup !", "label": "simple"}
+{"query": "Bonjour, comment ça va ?", "label": "simple"}
+{"query": "Résume en une phrase : « Le chat dort sur le canapé toute la journée. »", "label": "simple"}
+{"query": "Comment conjugue-t-on « être » à la première personne du singulier au présent ?", "label": "simple"}
+{"query": "Quelle est la capitale de l'Espagne ?", "label": "simple"}
+{"query": "Donne la décomposition biais-variance de l'erreur quadratique et démontre-la.", "label": "complexe"}
+{"query": "Établis l'équation de la chaleur en dimension 1 à partir d'un bilan d'énergie, puis résous-la par séparation des variables.", "label": "complexe"}
+{"query": "Écris un plan détaillé de mémoire de recherche sur l'impact de l'IA sur le marché du travail, avec hypothèses et méthodologie.", "label": "complexe"}
+{"query": "Raconte-moi une blague courte.", "label": "simple"}
+{"query": "Quelles sont les implications du RGPD pour une startup qui entraîne un modèle sur des données clients ? Détaille.", "label": "complexe"}
+{"query": "Calcule ∫₀^∞ e^(−x²) dx en détaillant la méthode.", "label": "complexe"}
+{"query": "Je m'appelle Paul, j'habite à Lyon depuis trois ans, j'aime bien le vélo et la cuisine, et je voulais juste me présenter avant de commencer notre discussion.", "label": "simple"}
+{"query": "Quel est l'animal terrestre le plus rapide ?", "label": "simple"}
+{"query": "Pourquoi les ordinateurs quantiques menacent-ils RSA mais pas tous les schémas cryptographiques ? Explique l'algorithme de Shor dans les grandes lignes.", "label": "complexe"}
+{"query": "Propose l'architecture d'un système de recommandation temps réel pour 10 millions d'utilisateurs, en justifiant chaque choix.", "label": "complexe"}
+{"query": "Explique en détail les différences entre TCP et UDP et donne des cas d'usage pour chacun.", "label": "complexe"}
+{"query": "Prouve par récurrence que 1 + 2 + … + n = n(n+1)/2, puis généralise à la somme des cubes.", "label": "complexe"}
+{"query": "Quel est le contraire de « grand » ?", "label": "simple"}
+{"query": "Comment dit-on « merci » en japonais ?", "label": "simple"}
+{"query": "Décris le fonctionnement d'un asservissement PID, discrétise-le et discute du réglage de Ziegler-Nichols.", "label": "complexe"}
+{"query": "Optimise une requête SQL lente sur une table de 50 millions de lignes et explique le rôle des index composites et du plan d'exécution.", "label": "complexe"}
+{"query": "Traduis « good morning » en français.", "label": "simple"}
+{"query": "Compare les architectures Transformer et Mamba en détaillant les compromis mémoire/latence.", "label": "complexe"}
+{"query": "Détermine la complexité en pire cas de quicksort et montre comment un pivot aléatoire change l'espérance.", "label": "complexe"}
+{"query": "Dis-moi bonjour en espagnol.", "label": "simple"}
+{"query": "Écris « salut » en majuscules.", "label": "simple"}
+{"query": "Analyse les causes économiques et politiques de la crise de 1929 et ses conséquences en Europe.", "label": "complexe"}
+{"query": "Donne-moi un synonyme de « rapide ».", "label": "simple"}
+{"query": "Mon programme C fait un segfault quand j'accède à un tableau alloué dynamiquement dans une fonction récursive ; liste les causes possibles et explique comment diagnostiquer avec gdb et valgrind.", "label": "complexe"}
+{"query": "Énonce le théorème de Rice et montre qu'il implique l'indécidabilité de la terminaison.", "label": "complexe"}
+{"query": "Quelle est la capitale du Canada ?", "label": "simple"}
+{"query": "De quelle couleur est le ciel par temps clair ?", "label": "simple"}
+{"query": "Corrige la faute : « Il a mangé des pomme. »", "label": "simple"}
+{"query": "Explique-moi ce que veut dire « bonjour » en anglais.", "label": "simple"}
+{"query": "Écris une fonction Python qui implémente un cache LRU thread-safe et explique sa complexité.", "label": "complexe"}
+{"query": "En quelle année a eu lieu la Révolution française ?", "label": "simple"}
+{"query": "Que signifie l'abréviation « SNCF » ?", "label": "simple"}
+{"query": "Bonsoir, je voulais simplement te dire merci pour ton aide d'hier, c'était vraiment très sympa de ta part, et je voulais aussi savoir si tu allais bien aujourd'hui.", "label": "simple"}
+{"query": "Distingue convergence simple et convergence uniforme, avec un contre-exemple pour chaque implication qui échoue.", "label": "complexe"}
+{"query": "Montre que le groupe symétrique Sₙ est engendré par les transpositions.", "label": "complexe"}
+{"query": "Analyse les forces et faiblesses de la stratégie de Napoléon lors de la campagne de Russie et compare-la à celle de Charles XII.", "label": "complexe"}
+{"query": "Pourquoi P ≠ NP est-il si difficile à prouver ? Explique les barrières connues (relativisation, preuves naturelles, algébrisation).", "label": "complexe"}
+{"query": "Écris un script Python qui parcourt un site paginé, gère les erreurs réseau avec retry exponentiel et stocke les résultats dans SQLite.", "label": "complexe"}
+{"query": "Détaille les mécanismes de régulation de l'expression génique chez les eucaryotes et compare-les à ceux des procaryotes.", "label": "complexe"}
+{"query": "Donne-moi un mot qui rime avec « maison ».", "label": "simple"}
+{"query": "Quel jour vient après jeudi ?", "label": "simple"}
+{"query": "Conçois un schéma de base de données relationnelle pour une application de réservation de salles, normalisé en 3NF, avec justification.", "label": "complexe"}
+{"query": "Compare en détail les avantages et inconvénients du nucléaire et du solaire pour la transition énergétique en France, chiffres à l'appui.", "label": "complexe"}
