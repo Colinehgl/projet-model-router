@@ -13,7 +13,7 @@
 {"query": "C'est quoi un pixel ?", "expected_complexity": "simple"}
 {"query": "Donne trois noms de fruits rouges.", "expected_complexity": "simple"}
 {"query": "Quelle est la couleur du drapeau italien ?", "expected_complexity": "simple"}
-{"query": "Explique en détail les différences entre TCP et UDP.", "expected_complexity": "complex"}
+{"query": "Explique en détail les différencexs entre TCP et UDP.", "expected_complexity": "complex"}
 {"query": "Écris un algorithme de tri fusion en Python et analyse sa complexité.", "expected_complexity": "complex"}
 {"query": "Compare les architectures REST et GraphQL : avantages, inconvénients et cas d'usage.", "expected_complexity": "complex"}
 {"query": "Un train part de Paris à 9h à 120 km/h, un autre de Lyon à 9h30 à 100 km/h en sens inverse. Distance : 465 km. À quelle heure se croisent-ils ? Raisonne étape par étape.", "expected_complexity": "complex"}
