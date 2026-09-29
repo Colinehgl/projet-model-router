@@ -1,4 +1,4 @@
-def route(query: str) -> str:
+def route(query: str):
     complex_keywords = [
         "explique en détail", "analyse", "code", "compare", 
         "raisonne", "démontre", "pourquoi", "calcule"
